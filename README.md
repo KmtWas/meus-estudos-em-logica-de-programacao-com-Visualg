@@ -1,2 +1,2 @@
-# meus-estudos-em-logica-de-programa-o
+# meus-estudos-em-logica-de-programacao
 Exercícios de lógica de programação com Visualg
