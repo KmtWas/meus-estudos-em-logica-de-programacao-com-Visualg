@@ -7,8 +7,6 @@ entrada de dados, processamento e saída.
 
 ## Sobre este repositório
 
-Este repositório reúne meus primeiros exercícios de lógica de programação.
-
 - `Primeiro Algoritimo- Olá, Mundo.alg`: primeiro contato com Visualg.
 - `Segundo Algo- meu nome.alg`: leitura de dados e exibição de mensagem.
 - `Valores Inteiros.alg`: exercícios com entrada de inteiros e operações simples.
