@@ -1,14 +1,14 @@
 algoritmo "MeuNome"
-// Função :Comandos de entrada
-// Autor : Welison
+// FunÃ§Ã£o :Comandos de entrada
+// Autor : KmtWas
 // Data : 13/04/2026
-// Seção de Declarações -terceira aula curso em vídeo
+// SeÃ§Ã£o de DeclaraÃ§Ãµes -terceira aula curso em vÃ­deo
 
 var
 Nome: Caractere
 
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 Escreva ("Digite seu nome: ")
 Leia (Nome)
 Escreva ("Muito prazer ", Nome)
